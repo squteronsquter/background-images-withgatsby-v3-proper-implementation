@@ -1,0 +1,13 @@
+nav {
+  display: flex;
+  min-height: 4rem;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+h1 {
+  display: inline-block;
+  font-size: 2em;
+  text-align: center;
+}
